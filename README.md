@@ -16,6 +16,12 @@ This project makes use of the following open-source resources:
 
 ---
 
+## 📦 Installation
+
+```bash
+pip install transformers torch accelerate
+```
+
 ## 📂 Code Overview  
 
 The project code includes the following components:  
